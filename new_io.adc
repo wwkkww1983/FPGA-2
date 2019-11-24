@@ -1,0 +1,51 @@
+set_pin_assignment	{ DA_CLK }	{ LOCATION = D11; }
+set_pin_assignment	{ LED1 }	{ LOCATION = N4; }
+set_pin_assignment	{ LED[0] }	{ LOCATION = M4; }
+set_pin_assignment	{ LED[1] }	{ LOCATION = M3; }
+set_pin_assignment	{ key_down }	{ LOCATION = G12; }
+set_pin_assignment	{ key_plus }	{ LOCATION = J13; }
+set_pin_assignment	{ num[0] }	{ LOCATION = H11; }
+set_pin_assignment	{ num[1] }	{ LOCATION = F9; }
+set_pin_assignment	{ num[2] }	{ LOCATION = F10; }
+set_pin_assignment	{ num[3] }	{ LOCATION = F12; }
+set_pin_assignment	{ num[4] }	{ LOCATION = E13; }
+set_pin_assignment	{ num[5] }	{ LOCATION = E12; }
+set_pin_assignment	{ num[6] }	{ LOCATION = E11; }
+set_pin_assignment	{ num[7] }	{ LOCATION = C13; }
+set_pin_assignment	{ switch1 }	{ LOCATION = T4; }
+set_pin_assignment	{ switch2 }	{ LOCATION = R5; }
+set_pin_assignment	{ switch3 }	{ LOCATION = T5; }
+set_pin_assignment	{ switch4 }	{ LOCATION = T6; }
+set_pin_assignment	{ sys_clk }	{ LOCATION = K14; }
+set_pin_assignment	{ sys_rst_n }	{ LOCATION = G11; }
+set_pin_assignment	{ vga_clk_w }	{ LOCATION = H2; }
+set_pin_assignment	{ vga_hs }	{ LOCATION = J3; }
+set_pin_assignment	{ vga_rgb[0] }	{ LOCATION = K6; }
+set_pin_assignment	{ vga_rgb[10] }	{ LOCATION = K1; }
+set_pin_assignment	{ vga_rgb[11] }	{ LOCATION = J1; }
+set_pin_assignment	{ vga_rgb[12] }	{ LOCATION = H3; }
+set_pin_assignment	{ vga_rgb[13] }	{ LOCATION = J6; }
+set_pin_assignment	{ vga_rgb[14] }	{ LOCATION = H1; }
+set_pin_assignment	{ vga_rgb[15] }	{ LOCATION = H5; }
+set_pin_assignment	{ vga_rgb[16] }	{ LOCATION = G1; }
+set_pin_assignment	{ vga_rgb[17] }	{ LOCATION = F1; }
+set_pin_assignment	{ vga_rgb[18] }	{ LOCATION = F2; }
+set_pin_assignment	{ vga_rgb[19] }	{ LOCATION = E1; }
+set_pin_assignment	{ vga_rgb[1] }	{ LOCATION = K3; }
+set_pin_assignment	{ vga_rgb[20] }	{ LOCATION = G3; }
+set_pin_assignment	{ vga_rgb[21] }	{ LOCATION = E2; }
+set_pin_assignment	{ vga_rgb[22] }	{ LOCATION = D1; }
+set_pin_assignment	{ vga_rgb[23] }	{ LOCATION = C1; }
+set_pin_assignment	{ vga_rgb[2] }	{ LOCATION = K5; }
+set_pin_assignment	{ vga_rgb[3] }	{ LOCATION = L4; }
+set_pin_assignment	{ vga_rgb[4] }	{ LOCATION = M1; }
+set_pin_assignment	{ vga_rgb[5] }	{ LOCATION = M2; }
+set_pin_assignment	{ vga_rgb[6] }	{ LOCATION = L3; }
+set_pin_assignment	{ vga_rgb[7] }	{ LOCATION = L5; }
+set_pin_assignment	{ vga_rgb[8] }	{ LOCATION = L1; }
+set_pin_assignment	{ vga_rgb[9] }	{ LOCATION = K2; }
+set_pin_assignment	{ vga_vs }	{ LOCATION = J4; }
+
+
+
+
